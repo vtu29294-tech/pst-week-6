@@ -23,4 +23,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/vtu29294-tech/pst-week-6/tree/master/0933-number-of-recent-calls) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/vtu29294-tech/pst-week-6/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/vtu29294-tech/pst-week-6/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/vtu29294-tech/pst-week-6/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/vtu29294-tech/pst-week-6/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
